@@ -1,4 +1,4 @@
-# [Start Bootstrap - Clean Blog](https://startbootstrap.com/theme/clean-blog/)
+
 
 [Clean Blog](https://startbootstrap.com/theme/clean-blog/) is a stylish, responsive blog theme for [Bootstrap](https://getbootstrap.com/) created by [Start Bootstrap](https://startbootstrap.com/). This theme features a blog homepage, about page, contact page, and an example post page along with a working PHP contact form.
 
@@ -64,6 +64,8 @@ Start Bootstrap was created by and is maintained by **[David Miller](https://dav
 
 Start Bootstrap is based on the [Bootstrap](https://getbootstrap.com/) framework created by [Mark Otto](https://twitter.com/mdo) and [Jacob Thorton](https://twitter.com/fat).
 
+
 ## Copyright and License
 
 Copyright 2013-2020 Start Bootstrap LLC. Code released under the [MIT](https://github.com/StartBootstrap/startbootstrap-clean-blog/blob/gh-pages/LICENSE) license.
+### Un grand merci à  [Start Bootstrap - Clean Blog](https://startbootstrap.com/theme/clean-blog/) pour retrouver le thème initial
